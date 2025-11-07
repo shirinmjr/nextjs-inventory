@@ -5,19 +5,13 @@ Part of the [NextJS-Inventory](https://github.com/shirinmjr/nextjs-inventory) mo
 
 ## 🚀 Overview
 
-PrintForge is a modular inventory management system built with Next.js.  
-It provides tools to manage and track print-related inventory, automate workflows, and support print-specific metadata such as materials, editions, and production details.  
-It integrates seamlessly with the broader NextJS-Inventory ecosystem.
+The PrintForge Scrimba project is an educational application built in the Scrimba learning platform that teaches users how to build a full-stack web application using Next.js. The project involves creating a platform for browsing and sharing STL files for 3D printing, and it covers key concepts like static and dynamic routing, server-side and client-side rendering, and data fetching.
 
 ## ✨ Features
 
-- ✅ Full CRUD for inventory items (create, read, update, delete)
-- 🖨️ Print-specific data tracking (media type, format, edition, etc.)
-- 🔄 Real-time stock and item updates
-- 📋 Filtered list & detail views
-- 🔐 Authentication and role support (if connected to main system)
-- ⚙️ Integration hooks for production/print job tracking
-- 📱 Responsive layout built with modern React and Tailwind
+- ✅ Static & dynamic routing
+- ✅ Server-side & client-side rendering
+- ✅ Layouts, pages & data fetching, and more!
 
 ## 🧰 Tech Stack
 
