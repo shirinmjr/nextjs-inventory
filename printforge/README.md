@@ -7,6 +7,10 @@ Part of the [NextJS-Inventory](https://github.com/shirinmjr/nextjs-inventory) mo
 
 The PrintForge Scrimba project is an educational application built in the Scrimba learning platform that teaches users how to build a full-stack web application using Next.js. The project involves creating a platform for browsing and sharing STL files for 3D printing, and it covers key concepts like static and dynamic routing, server-side and client-side rendering, and data fetching.
 
+<p align="center">
+  <img src="./public/hero-image-square.png" alt="Project Overview" width="400"/>
+</p>
+
 ## ✨ Features
 
 - ✅ Static & dynamic routing
